@@ -7,6 +7,9 @@ p{color: rgb(0, 0, 0)
         font-style: initial;
         color: red;
     }
+   .imgl {
+    width: 70%;
+   }
     h1 {
         text-align: center;
     }
