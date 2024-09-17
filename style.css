@@ -2,15 +2,18 @@ body {
     background-color: rgb(56, 115, 138);
 margin: 0px;
 }
+header{ 
+
 p{color: rgb(0, 0, 0)
     ;}
     .ramega {
         font-style: initial;
         color: red;
     }
-   .imgl {
+   .img1 {
     width: 70%;
    }
+
     h1 {
         text-align: center;
     }
