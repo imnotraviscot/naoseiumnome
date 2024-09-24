@@ -1,9 +1,10 @@
 body {
     background-color: rgb(56, 115, 138);
 margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
 }
 header{ 
-
+border-bottom: salmon 2px rgb(rgb(250, 152, 152), rgb(255, 253, 152), rgb(95, 174, 206));
 p{color: rgb(0, 0, 0)
     ;}
     .ramega {
