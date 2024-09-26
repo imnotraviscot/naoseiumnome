@@ -1,11 +1,16 @@
 body {
-    background-color: rgb(56, 115, 138);
+    background-color: rgb(0, 0, 0);
 margin: 0px;
-font-family: Arial, Helvetica, sans-serif;
 }
-header{ 
-border-bottom: salmon 2px rgb(rgb(250, 152, 152), rgb(255, 253, 152), rgb(95, 174, 206));
-p{color: rgb(0, 0, 0)
+nav a {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: small;
+    color: darkmagenta;
+    display: flex;
+    justify-content: left;
+}
+p{color: rgb(150, 0, 0)
     ;}
     .ramega {
         font-style: initial;
@@ -17,9 +22,11 @@ p{color: rgb(0, 0, 0)
 
     h1 {
         text-align: center;
+        color: beige
     }
     h2 {
         text-align: center.;
+    
     }
     h3 {
         text-align: left;
