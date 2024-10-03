@@ -1,17 +1,19 @@
 body {
     background-color:  rgb(255, 249, 249);
-margin: 0px;
+    margin: 0px;
 }
+
 nav a {
     margin-top: 5%;
     padding: 2px;
     font-size: small;
     color: darkmagenta;
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
-p{color: rgb(150, 0, 0)
-    ;}
+p{
+    color: rgb(150, 0, 0);
+}
     .ramega {
         font-style: initial;
         color: rgb(0, 0, 0);
@@ -23,8 +25,10 @@ p{color: rgb(150, 0, 0)
         color: rgb(255, 0, 0)
     }
     h2 {
-        text-align: center.;
-        font size: 50%  }
+        text-align: center;
+        font size: 50%
+      }
+
     h3 {
         text-align: left;
     }
